@@ -9,7 +9,6 @@
 ## Complete hardware specs
 - Intel i5 9600K
 - Asus Prime H310M-E R2.0/BR
-- RX 6900 XT - Nitro+ Special Edition (Sapphire - PN: PN 11308-03-20G)
 - RX 580 2048SP (VBIOS Sapphire.RX570.8192.191031)
 - 2x 16Gb DDR4 2400Mhz Hyperx with XMP Enabled
 - Wifi/BT AXE3000(AX210) 
