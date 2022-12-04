@@ -22,8 +22,8 @@
 - DRM content (Netflix, AppleTV, etc)
 - Shutdown/Reboot/Update to newer macOS builds over time
 
-## What doesn't work
-- So far I haven't noticed anything wrong with this setup
+## What doesn't work/Bugs
+- Sometimes the operating system freezes and restarts
 
 ## Kexts used:
 - AppleALC.kext
