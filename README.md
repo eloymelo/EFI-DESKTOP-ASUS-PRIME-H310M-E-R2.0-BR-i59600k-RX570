@@ -41,6 +41,9 @@
 - VirtualSMC.kext
 - WhateverGreen.kext
 
+## Keep in mind:
+- Don't forget to set to dGPU (PCIe) instead of iGPU (Primary Display CPU) in your BIOS settings if you intend to use this alongside the dedicated graphics card (dGPU).  
+
 ## Thanks/Credits
 - [Opencore Team](https://dortania.github.io/getting-started/)
 - Gabriel Luchina - Universo Hackintosh (https://github.com/luchina-gabriel)
