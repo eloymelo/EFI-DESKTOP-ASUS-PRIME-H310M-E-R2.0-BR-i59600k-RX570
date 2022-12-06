@@ -4,7 +4,7 @@
 
 **Latest working macOS**: 12.6.1
 <br>
-**Current OpenCore**: 0.8.6
+**Current OpenCore**: 0.8.7
 
 ## Complete hardware specs
 - Intel i5 9600K
