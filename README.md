@@ -26,16 +26,17 @@
 - Sometimes the operating system freezes and restarts
 
 ## Kexts used:
-- AppleALC.kext
-- Lilu.kext
 - AirportItlwm.kext
+- AppleALC.kext
 - BlueToolFixup.kext
 - IntelBluetoothFirmware.kext
 - IntelBTPatcher.kext
-- RealtekRTL8111.kext
-- SMCSuperIO.kext
-- SMCProcessor.kext
+- Lilu.kext
 - NVMeFix.kext
+- RealtekRTL8111.kext
+- RestrictEvents.kext
+- SMCProcessor.kext
+- SMCSuperIO.kext
 - USBMap.kext
 - VirtualSMC.kext
 - WhateverGreen.kext
