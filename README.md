@@ -3,6 +3,7 @@
 ![about-12 3 1](https://github.com/eloymelo/EFI-DESKTOP-ASUS-PRIME-H310M-E-R2.0-BR-i59600k-RX570/blob/main/Images/aboutthismac.png?raw=true)
 
 **SMBIOS: iMacPro1,1**
+<br>
 **Latest working macOS**: 12.6.1
 <br>
 **Current OpenCore**: 0.8.7
