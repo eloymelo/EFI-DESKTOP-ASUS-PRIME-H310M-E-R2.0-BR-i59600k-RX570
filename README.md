@@ -4,19 +4,19 @@
 
 **SMBIOS: iMacPro1,1**
 <br>
-**Latest working macOS**: 12.6.1
+**Latest working macOS**: Ventura 13.2.1
 <br>
-**Current OpenCore**: 0.8.7
+**Current OpenCore**: 0.9.0
 
 ## Complete hardware specs
 - Intel i5 9600K
 - Asus Prime H310M-E R2.0/BR
 - RX 580 2048SP (VBIOS Sapphire.RX570.8192.191031)
-- 2x 16Gb DDR4 2400Mhz Hyperx with XMP Enabled
-- Wifi/BT AXE3000(AX210) 
+- 2x 16Gb DDR4 2400Mhz Hyperx with XMP Disabled
+- Wifi/BT AXE3000(AX210) - NOT WORKING ON VENTURA
 
 ## What works
-- macOS Catalina, macOS Big Sur and macOS Monterey
+- macOS Catalina, macOS Big Sur, macOS Monterey and macOS Ventura
 - Audio
 - All USB ports
 - iCloud related services (Drive, iMessage, Facetime, etc)
@@ -25,14 +25,10 @@
 - Shutdown/Reboot/Update to newer macOS builds over time
 
 ## What doesn't work/Bugs
-- Sometimes the operating system freezes and restarts
+- **FIXED, IT WAS A RAM STICK ISSUE** Sometimes the operating system freezes and restarts
 
 ## Kexts used:
-- AirportItlwm.kext
 - AppleALC.kext
-- BlueToolFixup.kext
-- IntelBluetoothFirmware.kext
-- IntelBTPatcher.kext
 - Lilu.kext
 - NVMeFix.kext
 - RealtekRTL8111.kext
