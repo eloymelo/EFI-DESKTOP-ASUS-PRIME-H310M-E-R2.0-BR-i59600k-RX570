@@ -25,7 +25,7 @@
 - Shutdown/Reboot/Update to newer macOS builds over time
 
 ## What doesn't work/Bugs
-- **FIXED, IT WAS A RAM STICK ISSUE** Sometimes the operating system freezes and restarts
+- **FIXED, IT WAS A RAM STICK ISSUE** | Sometimes the operating system freezes and restarts
 
 ## Kexts used:
 - AppleALC.kext
