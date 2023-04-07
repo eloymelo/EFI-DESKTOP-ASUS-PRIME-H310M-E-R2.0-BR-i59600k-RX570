@@ -6,7 +6,7 @@
 <br>
 **Latest working macOS**: Ventura 13.3
 <br>
-**Current OpenCore**: 0.9.0
+**Current OpenCore**: 0.9.1
 
 ## Complete hardware specs
 - Intel i5 9600K
