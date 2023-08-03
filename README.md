@@ -1,14 +1,14 @@
-<!-- Updated to version 0.9.3 (: -->
+<!-- Updated to version 0.9.3 -->
 
 # Asus Prime H310M-E R2.0/BR + i59600K + RX 580 2048SP (VBIOS RX 570)
 
 ![about-12 3 1](https://github.com/eloymelo/EFI-DESKTOP-ASUS-PRIME-H310M-E-R2.0-BR-i59600k-RX570/blob/main/Images/aboutthismac.png?raw=true)
 
-**SMBIOS: iMacPro1,1**
+**SMBIOS: iMac19,1**
 <br>
-**Latest working macOS**: Ventura 13.3
+**Latest working macOS**: Ventura 13.5
 <br>
-**Current OpenCore**: 0.9.1
+**Current OpenCore**: 0.9.3
 
 ## Complete hardware specs
 - Intel i5 9600K
